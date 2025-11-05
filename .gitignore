@@ -1,0 +1,11 @@
+# Environnements virtuels
+.venv/
+
+# Fichiers système
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Données temporaires
+*.log
+*.pkl
